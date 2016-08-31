@@ -1,0 +1,74 @@
+div#parentDiv {
+    width: 100%;
+    height: auto;
+    background: #FFFFE0;
+}
+
+div#parentDiv div#header div.headerOne {
+    height: 40px;
+   
+}
+
+div#parentDiv div#header div.headerTwo {
+    color: #242626;
+    background: #F1E61D;
+}
+
+div#parentDiv div#header div.headerThree{
+	color: #FF4A29;
+}
+
+div#parentDiv div#header div.headerFour{
+	color: #242626;
+    background: #F1E61D;
+}
+
+div#parentDiv div#header div#rhyme ul.rhyme{
+	text-align: center;
+	height: 160
+	border: 1px solid black;
+	list-style-type: none;
+	color: #FF4A29;
+	font-family: courier;
+
+
+}
+
+div#parentDiv div#footer div.footerOne{
+background: #FFFF00;
+}
+
+div#parentDiv div#footer div.footerTwo{
+	color: #30dfd0;
+}
+
+div#parentDiv div#footer div.footerTwo div.subDiv{
+	color: #FF4A29;
+	background: #FFFF00;
+}
+
+
+
+div#parentDiv div#footer div.footerThree{
+color: #8700fd;
+}
+
+
+
+div#parentDiv div#footer ul.subDivFoot{
+color: #8f0098
+}
+
+div#parentDiv div#footer div.footerFour{
+	color: #FF4A29;
+	font-family: arial;
+}
+
+div#parentDiv div#footer div.footerFive{
+
+color: #FF4A29;
+}
+
+/*a:link{
+	color: pink;
+}*/
